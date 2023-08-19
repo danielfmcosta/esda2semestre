@@ -1,0 +1,45 @@
+Backbone	Backbone	Yes
+Feathers	Backbone	Yes
+Bird	Feathers	Yes
+Fur/Hair	Feathers	No
+Hooves	Fur/Hair	Yes
+Split hoof	Hooves	Yes
+Artiodactyl	Split hoof	Yes
+Perissodactyl	Split hoof	No
+Wings	Hooves	No
+Bat	Wings	Yes
+Pouches	Wings	No
+Marsupial	Pouches	Yes
+Tusks	Pouches	No
+Proboscidean	Tusks	Yes
+Marine	Tusks	No
+Flippers	Marine	Yes
+Blubber	Flippers	Yes
+Pinniped	Blubber	Yes
+Cetacean	Blubber	No
+Herbivorous	Flippers	No
+Sirenian	Herbivorous	Yes
+Marine fissiped	Herbivorous	No
+Long, sharp claws	Marine	No
+Carnivore	Long, sharp claws	Yes
+Flat nails	Long, sharp claws	No
+Primate	Flat nails	Yes
+Rodent	Flat nails	No
+Scales	Fur/Hair	No
+Smooth, moist skin	Scales	Yes
+Fish	Smooth, moist skin	Yes
+Reptile	Smooth, moist skin	No
+Amphibian	Scales	No
+Hard shell	Backbone	No
+Symmetric	Hard shell	Yes
+Bivalve	Symmetric	Yes
+Gastropod	Symmetric	No
+Tentacles	Hard shell	No
+Cephalopod	Tentacles	Yes
+Jointed legs and exoskeleton	Tentacles	No
+Arthropod	Jointed legs and exoskeleton	Yes
+Jelly-like organism	Jointed legs and exoskeleton	No
+Cnidarian	Jelly-like organism	Yes
+Worm-like organism	Jelly-like organism	No
+Worm	Worm-like organism	Yes
+Echinoderm	Worm-like organism	No

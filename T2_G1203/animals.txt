@@ -1,0 +1,150 @@
+Inia geoffrensis,Amazon river dolphin
+Geotrypetes seraphini,Gaboon caecilian
+Canis latrans,Coyote
+Anstisia alba,White-bellied frog
+Crocuta crocuta,Spotted hyena
+Panthera tigris,Tiger
+Trichechus manatus,West Indian manatee
+Actinia equina,Beadlet anemone
+Panopea generosa,Geoduck clam
+Canis lupus,Wolf
+Crotalus adamanteus,Eastern diamondback rattlesnake
+Elephas maximus,Asian elephant
+Pachygrapsus marmoratus,Marbled rock crab
+Giraffa camelopardalis,Giraffe
+Sepioteuthis lessoniana,Bigfin reef squid
+Macropus rufus,Red kangaroo
+Chrysaora hysoscella,Compass jellyfish
+Haliaeetus leucocephalus,Bald eagle
+Ardea cinerea,Gray heron
+Diceros bicornis,Black rhinoceros
+Enhydra lutris,Sea otter
+Crassostrea virginica,American oyster
+Sciurus carolinensis,Gray squirrel
+Patella vulgata,Common limpet
+Pongo pygmaeus,Orangutan
+Lasiurus cinereus,Hoary bat
+Chlamys islandica,Iceland scallop
+Spisula solidissima,Atlantic surf clam
+Aepyceros melampus,Impala
+Lumbricus terrestris,Earthworm
+Latrodectus mactans,Black widow spider
+Dermochelys coriacea,Leatherback turtle
+Haliotis asinina,Ass's-ear abalone
+Gyps africanus,White-backed vulture
+Aptenodytes forsteri,Emperor penguin
+Gymnogyps californianus,California condor
+Pelophylax lessonae,Pool frog
+Platycryptus undatus,Familiar jumping spider
+Balaenoptera musculus,Blue whale
+Cardinalis cardinalis,Northern cardinal
+Vultur gryphus,Andean condor
+Hydrochoerus hydrochaeris,Capybara
+Polycera aurantiomarginata,Sea slug
+Meridionale harrisi,Yellow kneed sea spider
+Iguana iguana,Iguana
+Trimeresurus fasciatus,Banded pitviper
+Bradytriton silus,Finca chiblac salamander
+Panthera pardus,Leopard
+Mytilus edulis,Blue mussel
+Salamandrina perspicillata,Northern spectacled salamander
+Lynx rufus,Bobcat
+Pollicipes pollicipes,Goose neck barnacle
+Camelus dromedarius,Arabian camel
+Papio papio,Guinea baboon
+Pangasianodon gigas,Mekong giant catfish
+Struthio camelus,Ostrich
+Proteles cristata,Aardwolf
+Perinereis nuntia vallata,Bar-toothed nereid
+Actinopyga echinites,Brownfish
+Testudo graeca,Spur-thighed tortoise
+Rangifer tarandus,Caribou
+Dipodomys phillipsii,Kangaroo rat
+Felis silvestris,Wildcat
+Fromia monilis,Necklace starfish
+Wunderpus photogenicus,Wunderpus octopus
+Bison bison,American bison
+Loxodonta africana,African bush elephant
+Panthera uncia,Snow leopard
+Tetracerus quadricornis,Four-horned antelope
+Corvus brachyrhynchos,American crow
+Vespula germanica,European wasp
+Puma concolor,Cougar
+Siliqua patula,Razor clam
+Lycosa tarantula,Tarantula
+Acinonyx jubatus,Cheetah
+Empis livida,Long dance fly
+Gorilla gorilla,Western gorilla
+Phoenicopterus ruber,American flamingo
+Luscinia megarhynchos,Nightingale
+Verasper variegatus,Spotted halibut
+Mellisuga helenae,Bee hummingbird
+Prunella modularis,Sparrow
+Dromaius novaehollandiae,Emu
+Pelecanus erythrorhynchos,American white pelican
+Pan troglodytes,Common chimpanzee
+Octopus vulgaris,Common octopus
+Eunectes murinus,Green anaconda
+Notarchus punctatus,Sea hare
+Gulo gulo,Wolverine
+Ophiophagus hannah,King cobra
+Castor canadensis,North American beaver
+Carcharodon carcharias,Great white shark
+Orcinus orca,Killer whale
+Panthera onca,Jaguar
+Cavia cobaya,Guinea pig
+Glaucomys sabrinus,Northern flying squirrel
+Mantis religiosa,Praying mantis
+Falco peregrinus,Peregrine falcon
+Cornu aspersum,Garden snail
+Salmo salar,Atlantic salmon
+Homarus americanus,American lobster
+Haliclystus auricula,Kaleidoscope jellyfish
+Hippopotamus amphibius,Hippopotamus
+Didelphis virginiana,Virginia opossum
+Tursiops truncatus,Common bottlenose dolphin
+Ursus maritimus,Polar bear
+Neurergus kaiseri,Luristan newt
+Bubo scandiacus,Snowy owl
+Mesocentrotus franciscanus,Red sea urchin
+Dugong dugon,Dugong
+Apteryx haastii,Great spotted kiwi
+Panthera leo,Lion
+Urocyon cinereoargenteus,Gray fox
+Physalia physalis,Portuguese man-of-war
+Montipora capricornis,Vase coral
+Rhinotia hemistictus,Long nosed weevil
+Meleagris gallopavo,Turkey
+Cervus canadensis,Elk
+Varanus komodoensis,Komodo dragon
+Cheirogaleus major,Greater dwarf lemur
+Gryllotalpa brachyptera,Mole cricket
+Ateles geoffroyi,Spider monkey
+Ichthyophis beddomei,Beddome's caecilian
+Galeocerdo cuvier,Tiger shark
+Connochaetes gnou,Black wildebeest
+Alligator mississippiensis,American alligator
+Sabellastarte spectabilis,Feather duster worm
+Canis aureus,Jackal
+Opodiphthera eucalypti,Emperor gum moth
+Felis pardalis,Ocelot
+Mirounga angustirostris,Elephant seal
+Periclimenes imperator,Emperor shrimp
+Acerodon jubatus,Golden-capped fruit bat
+Physeter catodon,Sperm whale
+Phascolarctos cinereus,Koala bear
+Sarcophilus harrisii,Tasmanian devil
+Arion ater,Black slug
+Leptogorgia virgulata,Sea whip
+Liocarcinus holsatus,Flying crab
+Architeuthis dux,Giant squid
+Mesocricetus auratus,Golden hamster
+Acropora cervicornis,Staghorn coral
+Enteroctopus dofleini,Giant pacific octopus
+Protoreaster nodosus,Chocolate chip sea star
+Equus caballus,Horse
+Canis dingo,Dingo
+Procyon lotor maynardi,Bahaman raccoon
+Actinothoe sphyrodeta,Sandalled anemone
+Zalophus californianus,California sea lion
+Equus quagga,Plains zebra 
